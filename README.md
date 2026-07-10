@@ -3,7 +3,7 @@ Welcome to my Python fundamentals repository
 
 This documents my python learning journey
 
-#Topics
+##Topics
 - Strings
 - Lists
 - Tuples
@@ -19,4 +19,4 @@ This documents my python learning journey
 - Mini Projects
 
 
-⭐ Follow along as I update this repository regularly!
+Follow along as I update this repository regularly!
