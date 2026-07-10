@@ -4,9 +4,6 @@ Welcome to my Python fundamentals repository
 This documents my python learning journey
 
 #Topics
-- Variables & Input
-- Data Types
-- Operators
 - Strings
 - Lists
 - Tuples
