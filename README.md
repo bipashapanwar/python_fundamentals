@@ -3,7 +3,7 @@ Welcome to my Python fundamentals repository
 
 This documents my python learning journey
 
-##Topics
+## Topics
 - Strings
 - Lists
 - Tuples
